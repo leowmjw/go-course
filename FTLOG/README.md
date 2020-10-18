@@ -6,9 +6,9 @@ Introduce Golang to existing technical users; adjusted for Springboot as per in 
 
 ## Book 1
 
+See directory **calculator**
+
 ## Book 2
 
-## Recording
-
-Info is recorded into Twitch under twitch.tv/leowmjw under FTLOG
+See directory **bookstore**
 

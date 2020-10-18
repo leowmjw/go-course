@@ -4,5 +4,7 @@
 # Ignore Goland
 .idea
 
-
+# Ignore binaries
+calculator
+bookstore
 

@@ -1,8 +1,9 @@
 package calculator_test
 
 import (
-	"calculator"
 	"testing"
+
+	"github.com/leowmjw/go-course/FTLOG/calculator"
 )
 
 func TestAdd(t *testing.T) {
