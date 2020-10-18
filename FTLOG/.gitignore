@@ -1,0 +1,8 @@
+# Ignore direnv
+.envrc*
+
+# Ignore Goland
+.idea
+
+
+
